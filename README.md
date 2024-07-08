@@ -23,5 +23,5 @@ sudo ufw allow 80
 ## List of OS that have been tried
 
 - Ubuntu Server 22.04.4 LTS ☑️
-- Fedora Server ❎
-- Debian ❎
+- Fedora Server 🔴
+- Debian 🔴
