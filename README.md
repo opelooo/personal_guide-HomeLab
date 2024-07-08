@@ -2,7 +2,7 @@
 
 ## Ubuntu Server Based Tutorial
 
-**To create a Casa OS home lab, the first step is to install the desired OS (the author has tried the OS in the [following list](##List-of-OS-that-have-been-tried) )**
+**To create a Casa OS home lab, the first step is to install the desired OS (the author has tried the OS in the [following list](#list-of-os-that-have-been-tried) )**
 
 Once the server is installed, the next step is to install Casa OS using the following command:
 
