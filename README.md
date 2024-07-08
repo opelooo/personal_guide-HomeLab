@@ -27,4 +27,4 @@ sudo ufw allow 80
 - Debian 🔴
 
 ## Another Tutorials
-- [Tunneling Tutorial](/tunneling-ngrok.md)
+- [Ngrok Tunneling](/tunneling-ngrok.md)
