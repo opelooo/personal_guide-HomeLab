@@ -22,9 +22,13 @@ sudo ufw allow 80
 
 ## List of OS that have been tried
 
-- Ubuntu Server 22.04.4 LTS ☑️
-- Fedora Server 🔴
-- Debian 🔴
+- Ubuntu Server 22.04.4 LTS ✔️
+- Fedora Server 🟡
+- Debian 🟡
+- Proxmox 🟡
+- SUSE 🟡
+- CentOS 🟡
+- Windows Server 🟡
 
 ## Another Tutorials
 - [Ngrok Tunneling](/tunneling-ngrok.md)
