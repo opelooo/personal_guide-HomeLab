@@ -27,4 +27,4 @@ sudo ufw allow 80
 - Debian 🔴
 
 ## Another Tutorials
-- [Tunneling Tutorial](personal_guide-HomeLab/ngrok.md)
+- [Tunneling Tutorial](personal_guide-HomeLab/tunneling-ngrok.md)
