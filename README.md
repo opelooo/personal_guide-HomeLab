@@ -23,7 +23,7 @@ sudo ufw allow 80
 ## List of OS that have been tried
 
 - Ubuntu Server 22.04.4 LTS ✔️
-- Fedora 40 ✖️ ([udevil dependency problem](https://github.com/IceWhaleTech/CasaOS/issues/1149))
+- Fedora 40 ❌ ([udevil dependency problem](https://github.com/IceWhaleTech/CasaOS/issues/1149))
 - Debian 🟡
 - Proxmox 🟡
 - SUSE 🟡
