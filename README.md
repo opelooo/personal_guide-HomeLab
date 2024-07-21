@@ -25,7 +25,7 @@ sudo ufw allow 80
 - Ubuntu Server 22.04.4 LTS ✔️
 - Fedora 40 ❌ ([udevil dependency problem](https://github.com/IceWhaleTech/CasaOS/issues/1149))
 - Debian ✔️
-- Proxmox 🟡
+- Proxmox ✔️ (note: i install proxmox then, install debian vm)
 - openSUSE ❌ ([udevil dependency problem](https://github.com/IceWhaleTech/CasaOS/issues/1149))
 - CentOS 🟡
 - Windows Server 🟡
